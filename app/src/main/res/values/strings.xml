@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="rules">Rock batters scissors. Scissors cut paper. Paper smothers rocks.</string>
+</resources>
